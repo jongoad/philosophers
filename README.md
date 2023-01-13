@@ -9,6 +9,7 @@ A full description can be found in the [subject](subject/en.subject.pdf) pdf.
 <br></br>
 ## Usage
 The program runs in a very similar manner to the shell implementation, however it does not use the same syntax. Pipex can be run using the following syntax (command and arguments must be wrapped in quotes):
+
 ``
 $> ./philo [number of philo] [time_to_die] [time_to_eat] [time_to_sleep] [number_of_times_to_eat]
 ``
