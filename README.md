@@ -5,7 +5,7 @@ A 42 cursus project to solve a variation of the dining philosophers problem.
 ## Description
 philosophers is a project intended to introduce the concept of multi-threading by solving a variation of the dining philosophers problem. Using mutex locks, the problems of data races and resource sharing must be solved to create a stable simulation.
 
-A full description can be found in the [subject](subject/en.subject.pdf) pdf.
+A full description can be found in the [subject](subject/subject.en.pdf) pdf.
 <br></br>
 ## Usage
 The program runs in a very similar manner to the shell implementation, however it does not use the same syntax. Pipex can be run using the following syntax (command and arguments must be wrapped in quotes):
